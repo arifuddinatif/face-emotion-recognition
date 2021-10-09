@@ -83,9 +83,9 @@ Hyper-parameter that were used are epochs = 100,batch_size = 64 and learning_rat
 ![CNN2D](https://user-images.githubusercontent.com/79034119/133448924-88b0c3c4-6eec-4f36-8c45-5a5d5a6f3b2a.png)
 
 **For more detailed information please refer:** 
-1. https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/FER%20Tech%20Doc%20(1).pdf
+1. https://github.com/arifuddinatif/face-emotion-recognition/blob/main/Techdoc-Face%20emotion%20recognition.pdf
 
-2. https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Reference%20Paper.pdf
+2. https://github.com/arifuddinatif/face-emotion-recognition/blob/main/Reference%20Paper.pdf
 
 ## 2.3 Evaluation Metrics
 
@@ -104,15 +104,13 @@ Hyper-parameter that were used are epochs = 100,batch_size = 64 and learning_rat
 
 Our model shows accuracy of 61% on validation set and 90% on train set. 
 
-To access weblink please click on this link(Heroku): https://face-emotion-recognition-webap.herokuapp.com/
 
-To access weblink please click on this link(streamlit share): https://share.streamlit.io/sajalsinha/facial-emotion-recognition/main/app.py
+To access weblink please click on this link(streamlit share): https://share.streamlit.io/arifuddinatif/face-emotion-recognition/main/app.py
 
-If unable to access, a video named Sample.mp4 has been upload in repository. Please feel free to have a look.
+If unable to access, a video named Sample.mp4 has been upload in my teammates repository. Please feel free to have a look.
 
 link of Video : https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Sample_Local.mp4
 
-Colab working Video Link: https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/colab-sample-2.mp4
 
 **Live face and emotion detection can be easily done with the help of our model.**
 
